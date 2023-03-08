@@ -1,5 +1,5 @@
 # Eco-Vision
-A collaborative project by: Gael Arriaga, Carlos Espinal, Kyle Grosman, and Lisa Nguyen__
+A collaborative project by: Gael Arriaga, Carlos Espinal, Kyle Grosman, and Lisa Nguyen <br />
 https://youtu.be/Nl-8nB30MbI
 
 ## What is it?
