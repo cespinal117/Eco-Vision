@@ -1,4 +1,4 @@
-# Eco-Vision
+# Eco-Vision (Code and images to be uploaded soon)
 A collaborative project by: Gael Arriaga, Carlos Espinal, Kyle Grosman, and Lisa Nguyen <br />
 https://youtu.be/Nl-8nB30MbI
 
