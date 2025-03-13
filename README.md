@@ -1,6 +1,7 @@
 # Eco-Vision (Code and images to be uploaded soon)
 A collaborative project by: Gael Arriaga, Carlos Espinal, Kyle Grosman, and Lisa Nguyen <br />
 https://youtu.be/Nl-8nB30MbI
+https://devpost.com/software/ecovision
 
 ## What is it?
 EcoVision is an autonomous robot that uses the Google Vision Cloud API to identify objects and sort which items are recyclable or not. Once it finishes determining what objects can and cannot be recycled, it will then go and on its own grab the recyclable materials and bring it back to the waypoint. It will also record the items it has detected and send it to our database, where the information is then displayed onto our website. It also sends a photo capture of what the EcoVision is currently seeing.
